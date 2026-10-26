@@ -12,6 +12,7 @@ Prácticas y proyectos de redes: Cisco, VLANs, OSPF, direccionamiento IP y confi
 | ACT4 | Servicios de red | Configuración de un servidor DNS secundario con BIND9 | [Ver práctica](https://github.com/Dcardona-create/Actividades-ASIXII/tree/main/ACT4-dns-esclavo) |
 | ACT5|  RSYNC - TAR  | Copias de seguridad locales y remotas, restauración y automatización | [Ver boceto](https://github.com/Dcardona-create/Actividades-ASIXII/blob/main/rsync-tar/README.md) |
 | ACT6 | Alina | DNS+Wireshark | [Ver práctica](https://github.com/deivid-cardona/Actividades-ASIXII/tree/main/dns-wireshark) |
+| ACT7 | Alina | Securización de servidores DNS con DNSSEC | [Ver práctica](https://github.com/deivid-cardona/Actividades-ASIXII/tree/main/dnssec) |
 
 ## Autor
 
