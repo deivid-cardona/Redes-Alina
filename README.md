@@ -13,6 +13,8 @@ Prácticas y proyectos de redes: Cisco, VLANs, OSPF, direccionamiento IP y confi
 | ACT5|  RSYNC - TAR  | Copias de seguridad locales y remotas, restauración y automatización | [Ver boceto](https://github.com/Dcardona-create/Actividades-ASIXII/blob/main/rsync-tar/README.md) |
 | ACT6 | Alina | DNS+Wireshark | [Ver práctica](https://github.com/deivid-cardona/Actividades-ASIXII/tree/main/dns-wireshark) |
 | ACT7 | Alina | Securización de servidores DNS con DNSSEC | [Ver práctica](https://github.com/deivid-cardona/Actividades-ASIXII/tree/main/dnssec) |
+| ACT11 | Alina | Investigación: seguridad en el servicio DHCP | [Ver práctica](https://github.com/deivid-cardona/Actividades-ASIXII/blob/main/ACT4-investiga-dhcp/README.md) |
+| ACT12 | Alina | Simulación de DHCP Starvation | [Ver práctica](https://github.com/deivid-cardona/Actividades-ASIXII/blob/main/ACT5-ataques-dhcp/README.md) |
 
 ## Autor
 
